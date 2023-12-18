@@ -1,2 +1,3 @@
 # odin-recipes
-The Odin Project recipes project
+Using basic HTML to make a recipes landing page
+
